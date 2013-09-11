@@ -1,0 +1,20 @@
+{
+  "name": "n3d-scene",
+  "version": "0.0.1-alpha",
+  "description": "A plugin module which provides a 3D rendering context (for use with n3d-gamecore)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joates/n3d-scene.git"
+  },
+  "keywords": [
+    "n3d-gamecore",
+    "n3d",
+    "plugin"
+  ],
+  "author": "joates",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joates/n3d-scene/issues"
+  }
+}
